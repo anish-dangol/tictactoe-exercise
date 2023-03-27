@@ -3,7 +3,7 @@ Tic Tac Toe Exercise using Csharp, .Net and Xunit
 
 Requirement:
 1.  There should be no user interface.
---> THere is no UI.
+--> There is no UI.
 
 2. The code should be unit tested.
 --> Unit tested using Xunit .
