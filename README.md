@@ -26,15 +26,18 @@ Requirement:
 
 Assumptions:
 a. The game is played between two players represented by 'X' and 'O'.
+
 b. The game is played on a 3x3 grid.
+
 c. The Tic Tac Toe game implementation has a 'MakeMove' method; it takes two arguments - the row and column where the player wants to place their marker.
+
 d. The Tic Tac Toe game implementation has a 'CurrentPlayer' property; it keeps track of the current player who is supposed to make a move.
+
 e. The Tic Tac Toe game implementation has a 'State' property; it keeps track of the current state of the game, which can be 'InProgress', 'Win', or 'Draw'.
+
 f. The code uses the Xunit testing framework.
+
 g. The code defines several unit tests to test different aspects of the Tic Tac Toe game implementation.
 
 Time Spent:
 3 Hour 56 minutes
-
-
-
