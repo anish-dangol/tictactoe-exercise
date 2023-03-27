@@ -1,0 +1,14 @@
+D:\Dev Projects\VenusSolution\VenusSolution\bin\Debug\net6.0\VenusSolution.deps.json
+D:\Dev Projects\VenusSolution\VenusSolution\bin\Debug\net6.0\VenusSolution.runtimeconfig.json
+D:\Dev Projects\VenusSolution\VenusSolution\bin\Debug\net6.0\VenusSolution.dll
+D:\Dev Projects\VenusSolution\VenusSolution\bin\Debug\net6.0\VenusSolution.pdb
+D:\Dev Projects\VenusSolution\VenusSolution\obj\Debug\net6.0\VenusSolution.csproj.AssemblyReference.cache
+D:\Dev Projects\VenusSolution\VenusSolution\obj\Debug\net6.0\VenusSolution.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev Projects\VenusSolution\VenusSolution\obj\Debug\net6.0\VenusSolution.AssemblyInfoInputs.cache
+D:\Dev Projects\VenusSolution\VenusSolution\obj\Debug\net6.0\VenusSolution.AssemblyInfo.cs
+D:\Dev Projects\VenusSolution\VenusSolution\obj\Debug\net6.0\VenusSolution.csproj.CoreCompileInputs.cache
+D:\Dev Projects\VenusSolution\VenusSolution\obj\Debug\net6.0\VenusSolution.dll
+D:\Dev Projects\VenusSolution\VenusSolution\obj\Debug\net6.0\refint\VenusSolution.dll
+D:\Dev Projects\VenusSolution\VenusSolution\obj\Debug\net6.0\VenusSolution.pdb
+D:\Dev Projects\VenusSolution\VenusSolution\obj\Debug\net6.0\VenusSolution.genruntimeconfig.cache
+D:\Dev Projects\VenusSolution\VenusSolution\obj\Debug\net6.0\ref\VenusSolution.dll
